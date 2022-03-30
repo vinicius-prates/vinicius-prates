@@ -10,7 +10,7 @@
   <a href="https://github.com/vinicius-prates">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-prates&show_icons=true&theme=tokyonight">
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-prates&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-prates&layout=compact&theme=tokyonight">
     </div>
   
   <div style="display: flex; flex-wrap: wrap;">
