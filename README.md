@@ -7,10 +7,10 @@
 - “Live as if you were to die tomorrow. Learn as if you were to live forever.” – Mahatma Gandhi📚
 
 <div>
-  <a href="https://github.com/viktormarinho">
-  <img height="180em" src="https://github.com/vinicius-prates&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/vinicius-prates">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-prates&show_icons=true&theme=tokyonight">
 <br>
-  <img height="180em" src="https://github.com/vinicius-prates&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-prates&layout=compact&theme=tokyonight">
     </div>
   
   <div style="display: flex; flex-wrap: wrap;">
