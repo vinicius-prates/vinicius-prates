@@ -1,5 +1,5 @@
 ### Hey!😄
-# I'm Vinicius Prate👽
+# I'm Vinicius Prates👽
 ### Welcome to my profile! 
 
 
