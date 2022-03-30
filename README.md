@@ -2,5 +2,5 @@
 
 - 🧑🏻‍💻 Trabalho com Smart Automation - BOSCH
 - 🌌 Estudando Desenvolvimento de Sistemas - SENAI
-- 🕹️ Gosto muito de programas e jogar!
+- 🕹️ Gosto muito de programar e jogar!
 
