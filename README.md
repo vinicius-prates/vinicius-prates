@@ -1,6 +1,6 @@
 <h2 align="center">Hey, there!</h2>
 <h3 align="center">Beginner Fullstack Developer🥶</h3>
-
+<img align="right" alt="Coding" width="400" src="https://aminoapps.com/c/fnaf/page/user/madara-uchiha/EBB4_EzC4fJ60Xjr2D3b6XN5BM1jGWlgvM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-prates&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-prates" /> </p>
 
 <h3 align="left">Connect with me:</h3>
