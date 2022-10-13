@@ -37,4 +37,3 @@
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-prates&show_icons=true&theme=tokyonight"&locale=en" alt="iguoliveira" /></p>
   
-![Snake animation](https://github.com/vinicius-prates/vinicius-prates/blob/output/github-contribution-grid-snake.svg)
