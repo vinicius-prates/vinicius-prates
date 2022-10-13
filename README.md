@@ -35,4 +35,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-prates&theme=tokyonight" alt="vinicius-prates" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-prates&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vinicius-prates" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-prates&show_icons=true&theme=tokyonight"&locale=en" alt="iguoliveira" /></p>
+  
+![Snake animation](https://github.com/vinicius-prates/vinicius-prates/blob/output/github-contribution-grid-snake.svg)
