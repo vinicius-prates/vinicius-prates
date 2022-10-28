@@ -1,5 +1,5 @@
 <h2 align="center">Hey, there!</h2>
-<h3 align="center">Beginner Fullstack Developer🥶</h3>
+<h3 align="center">I'm a Fullstack Developer🥶</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c4/79/19/c47919b69dfffc52cc05c4a3f67cde2d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-prates&label=Profile%20views&color=d62828&style=flat" alt="vinicius-prates" /> </p>
 
