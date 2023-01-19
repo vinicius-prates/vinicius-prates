@@ -31,9 +31,4 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-prates&show_icons=true&locale=en&theme=tokyonight" alt="vinicius-prates" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-prates&theme=tokyonight" alt="vinicius-prates" /></p>
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-prates&show_icons=true&theme=tokyonight"&locale=en" alt="iguoliveira" /></p>
-  
