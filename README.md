@@ -1,19 +1,37 @@
-#### Working at BOSCH GmbH
-#### Grinding and learning 🥷
+<h1 align="center">A decent FullStack Developer</h3>
 
-##### Studying at the moment: 
-  - TS
-  - Prisma
-  - TRPC
-  - React
-  - Tailwind CSS
-  - Express + Node JS
-
-##### Tools I already have used:
- > - Python - Django - PyQt
- > - Java
- > - JS - Angular - React - React Native
- > - HTML5 - CSS - SCSS
- > - SQLite - MySQL - FireBase
- 
+<div align="center">
   
+  <h3> Working at @Bosch GmbH </h2>
+  <h3> Grinding☕ </h2>
+  
+</div>
+<div >
+  <p>  <img alt="Coding" align="right" width="525" src="https://i.giphy.com/media/KOCLgcdTywdVsjUevp/giphy.webp"></p>
+
+</div>
+ 
+
+ ```javascript
+const profile = {
+  name: 'Vinicius Prates',
+  game: 'Rocket League',
+  tech: {
+    programming: ['TS' , 'JS'],
+    frontend: ['React', 'Tailwindcss', 'SCSS'],
+    backend: ['Node', 'TRPC', 'Express', 'Prisma']
+  },
+  language: {
+    portuguese: true,
+    english: true,
+  }
+}
+```
+
+<div align="center">
+  <h3 text="center"><i>未来はピカ</i></h3>
+</div>
+  
+
+
+
