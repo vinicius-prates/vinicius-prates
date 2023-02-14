@@ -1,4 +1,4 @@
-<h1 align="center">A decent FullStack Developer</h3>
+<h1 align="center">A FullStack Developer</h3>
 
 <div align="center">
   
