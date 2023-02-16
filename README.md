@@ -15,7 +15,7 @@
  ```javascript
 const profile = {
   name: 'Vinicius Prates',
-  game: 'Rocket League',
+  game: 'Valorant',
   tech: {
     programming: ['TS' , 'JS'],
     frontend: ['React', 'Tailwindcss', 'SCSS'],
