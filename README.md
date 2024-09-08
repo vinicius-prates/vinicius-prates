@@ -7,7 +7,7 @@
   
 </div>
 <div>
-  <p>  <img alt="Coding" align="right" width="430" src="https://i.pinimg.com/originals/aa/11/30/aa11300e51e022065c0c46dade38dbe5.gif" ></p>
+  <p>  <img alt="Coding" align="right" width="440" src="https://i.pinimg.com/originals/aa/11/30/aa11300e51e022065c0c46dade38dbe5.gif" ></p>
 
 </div>
  
@@ -19,7 +19,7 @@ const profile = {
   tech: {
     programming: ['TS' , 'JS', 'Java', 'Deco'],
     frontend: ['React', 'Next', 'Tailwind'],
-    backend: ['Node', 'TRPC', 'Express', 'Prisma', 'Spring']
+    backend: ['Node', 'Express', 'Prisma', 'Spring']
   },
   language: {
     portuguese: true,
