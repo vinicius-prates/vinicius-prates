@@ -6,8 +6,8 @@
   <h3> Grinding☕ </h2>
   
 </div>
-<div >
-  <p>  <img alt="Coding" align="right" width="400" src="https://media1.giphy.com/media/5Z679ITUbZTodxmd9d/giphy.gif?cid=ecf05e47cfel3jp1rpqvmwyp1myf94hwaxtappeznm4qmy2s&rid=giphy.gif&ct=g"></p>
+<div>
+  <p>  <img alt="Coding" align="right" width="510" src="https://i.pinimg.com/originals/aa/11/30/aa11300e51e022065c0c46dade38dbe5.gif" ></p>
 
 </div>
  
@@ -15,11 +15,11 @@
  ```javascript
 const profile = {
   name: 'Vinicius Prates',
-  animeOfTheMoment: 'Hibike! Euphonium',
+  anime: 'Violet Evergarden',
   tech: {
     programming: ['TS' , 'JS', 'Java', 'Deco'],
     frontend: ['React', 'Next', 'Tailwind'],
-    backend: ['Node', 'TRPC', 'Express', 'Prisma', 'Springboot']
+    backend: ['Node', 'TRPC', 'Express', 'Prisma', 'Spring']
   },
   language: {
     portuguese: true,
