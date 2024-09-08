@@ -15,11 +15,11 @@
  ```javascript
 const profile = {
   name: 'Vinicius Prates',
-  game: 'Counter-Strike',
+  animeOfTheMoment: 'Hibike! Euphonium',
   tech: {
-    programming: ['TS' , 'JS'],
-    frontend: ['React', 'Tailwindcss', 'SCSS'],
-    backend: ['Node', 'TRPC', 'Express', 'Prisma']
+    programming: ['TS' , 'JS', 'Java', 'Deco'],
+    frontend: ['React', 'Next', 'Tailwind'],
+    backend: ['Node', 'TRPC', 'Express', 'Prisma', 'Springboot']
   },
   language: {
     portuguese: true,
