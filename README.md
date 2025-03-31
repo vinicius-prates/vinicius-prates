@@ -19,7 +19,7 @@ const profile = {
   tech: {
     programming: ['TS' , 'Go', 'Java', 'Deco'],
     frontend: ['React', 'Next', 'Tailwind'],
-    backend: ['Node', 'Express', 'Prisma', 'Go']
+    backend: ['Node', 'Express', 'Prisma', 'Chi']
   },
   language: {
     portuguese: true,
