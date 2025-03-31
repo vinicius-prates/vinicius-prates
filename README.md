@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h3> Working at @Bosch GmbH </h2>
+  <h3> Working at @Mercado Livre </h2>
   <h3> Grinding☕ </h2>
   
 </div>
@@ -17,9 +17,9 @@ const profile = {
   name: 'Vinicius Prates',
   anime: 'Violet Evergarden',
   tech: {
-    programming: ['TS' , 'JS', 'Java', 'Deco'],
+    programming: ['TS' , 'Go', 'Java', 'Deco'],
     frontend: ['React', 'Next', 'Tailwind'],
-    backend: ['Node', 'Express', 'Prisma', 'Spring']
+    backend: ['Node', 'Express', 'Prisma', 'Go']
   },
   language: {
     portuguese: true,
